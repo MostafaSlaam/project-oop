@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SOS.check_boy">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>check_boy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.check_customer">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>check_customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.check_product">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>check_product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.checker">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>checker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.context">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.customer">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAQAAAAgACAAA=</HashCode>
+      <FileName>customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.dliveryboy">
+    <Position X="3.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAJAAAAAAABCAAA=</HashCode>
+      <FileName>dliveryboy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.employee">
+    <Position X="3.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACAgA=</HashCode>
+      <FileName>employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.Form1" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAAACAIAACAAA4ACAAAHQAAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.Form2" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASABAIYIACAYAJQQAACRQARSEPm/dxgAEHBPAAgIIAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.manager_sign_in" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAASAAA4AAAAEHAAAAAAIAA=</HashCode>
+      <FileName>manager sign in.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.manager">
+    <Position X="21.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.menu" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAAAAACAQABAAgACASABTAPg5CAAAEHBOAQgAAAA=</HashCode>
+      <FileName>menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.orders">
+    <Position X="0.5" Y="14.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIACAAAAAAQAAEAAAAAAAAAAAIEAABQAAAgA=</HashCode>
+      <FileName>orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.person">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAQAAAAAAAIEAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.products">
+    <Position X="17.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAkACAACIAAAAAAAAAAAAAAAUAACAAAAAAAAAAAA=</HashCode>
+      <FileName>products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.Program">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.sign_in" Collapsed="true">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cCAAAAEAAyAgABSYAACAAABSYEA4AAAAMHhIAEAAAgA=</HashCode>
+      <FileName>sign_in.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.Properties.Resources" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAEAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOS.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
